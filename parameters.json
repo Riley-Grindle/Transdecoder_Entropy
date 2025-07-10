@@ -1,0 +1,11 @@
+{
+    
+    "project_id": "Cricket",
+    "input": "s3://mdibl-rgrindle/Entropy/Cricket/renamed.fa",
+    "gtf": "s3://mdibl-rgrindle/Entropy/Cricket/renamed.gtf",
+    
+    "pfam": "s3://mdibl-rgrindle/orthology_pipe/suplementary_files/Pfam-A.hmm",
+
+    "outdir": "s3://mdibl-rgrindle/Entropy/Cricket/"
+
+}
